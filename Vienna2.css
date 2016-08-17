@@ -1,0 +1,62 @@
+ header {
+          text-align: center;
+          background-size: cover;
+          background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2015/06/Vienna-Wallpaper-5.jpg");
+          color: white;
+    }
+
+  .social {  
+              padding: 20px;
+    }
+
+    }
+    h1 {
+        font-size: 100px;
+        font-family: 'Dancing Script', cursive;
+        color: white;
+    }
+    
+    h3 {
+      font-size: 30px;
+      font-family: 'Pacifico', cursive;
+      text-align: center;
+  }
+  p {
+    font-family: 'Sanchez', serif;
+    font-size: 20px;
+    text-align: center;
+  }
+    img {
+        margin: 40px 0px 0px 0px;
+        border: 1px solid black;
+    }
+
+    img src {
+            align: center;
+
+    }
+    ul {
+        padding: 10px;
+        background: #b20000;
+        text-align: right;
+        border: 1px solid black;
+    }
+    li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+    article {
+          max-width: 500px;
+          padding: 20px;
+          margin: 0 auto;
+    }
+    a {
+      align: right;
+      font-size: 20px;
+    }
+    label {
+      font-size: 18px;
+    }
+    body {
+      background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg");
+  }
