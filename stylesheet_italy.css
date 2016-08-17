@@ -53,13 +53,11 @@ iframe {
 
    ul {
         padding: 10px;
-        background: #b20000;
         text-align: center;
-        border: 1px solid black;
         font-family:'Sue Ellen Francisco';
         font-size: 30px;
         text-decoration: none;
-        color: white;
+        
     }
     li{
         display: inline;

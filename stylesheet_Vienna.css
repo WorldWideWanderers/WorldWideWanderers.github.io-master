@@ -8,6 +8,8 @@ header {
         font-size: 100px;
         font-family: 'Dancing Script', cursive;
         color: white;
+        text-align: center;
+        margin-top: -120px;
     }
     
     h3 {
@@ -30,38 +32,20 @@ header {
             align: center;
     }
     
-    .toolbar {
+    ul {
         padding: 10px;
         text-align: center;
         font-family:'Sue Ellen Francisco';
         font-size: 30px;
         text-decoration: none;
         color: white;
+    
     }
     
-    li{
+    li {
         display: inline;
         padding: 0px 10px 0px 10px;
     }
-
-
-
-.top {
-        display: inline;
-        margin: 0 auto;
-}
-
-ul {
-    padding: 10px;
-    background: #b20000;
-    text-align: center;
-    border: 1px solid black;
-}
-
-.social {
-  padding: 10px;
-  display: left;
-}
     
     article {
             max-width: 500px;
